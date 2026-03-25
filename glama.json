@@ -1,0 +1,1 @@
+{"name": "CryptoOracle", "description": "Crypto market intelligence \u2014 12 MCP tools for prices, DeFi TVL, trending, NFTs", "category": "finance", "tags": ["crypto", "defi", "market-data", "nft"], "tools": 12, "transport": "streamable-http", "endpoint": "https://tooloracle.io/crypto/mcp/"}
