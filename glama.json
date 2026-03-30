@@ -1,1 +1,8 @@
-{"name": "CryptoOracle", "description": "Crypto market intelligence \u2014 12 MCP tools for prices, DeFi TVL, trending, NFTs", "category": "finance", "tags": ["crypto", "defi", "market-data", "nft"], "tools": 12, "transport": "streamable-http", "endpoint": "https://tooloracle.io/crypto/mcp/"}
+{
+  "name": "cryptoOracle",
+  "description": "Crypto Market Intelligence \u2014 12 MCP tools for prices, charts, data",
+  "repository": "https://github.com/ToolOracle/cryptooracle",
+  "endpoint": "https://tooloracle.io/crypto/mcp/",
+  "tools": 12,
+  "license": "MIT"
+}
