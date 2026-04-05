@@ -1,0 +1,5 @@
+name: CryptoOracle
+description: Crypto market intelligence — 10 tools
+endpoint: https://tooloracle.io/crypto/mcp/
+transport: streamable-http
+license: MIT
